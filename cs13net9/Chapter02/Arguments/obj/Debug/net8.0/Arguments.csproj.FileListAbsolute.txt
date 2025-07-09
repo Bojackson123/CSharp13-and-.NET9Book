@@ -1,0 +1,15 @@
+/home/runner/workspace/cs13net9/Chapter02/Arguments/bin/Debug/net8.0/Arguments
+/home/runner/workspace/cs13net9/Chapter02/Arguments/bin/Debug/net8.0/Arguments.deps.json
+/home/runner/workspace/cs13net9/Chapter02/Arguments/bin/Debug/net8.0/Arguments.runtimeconfig.json
+/home/runner/workspace/cs13net9/Chapter02/Arguments/bin/Debug/net8.0/Arguments.dll
+/home/runner/workspace/cs13net9/Chapter02/Arguments/bin/Debug/net8.0/Arguments.pdb
+/home/runner/workspace/cs13net9/Chapter02/Arguments/obj/Debug/net8.0/Arguments.GeneratedMSBuildEditorConfig.editorconfig
+/home/runner/workspace/cs13net9/Chapter02/Arguments/obj/Debug/net8.0/Arguments.AssemblyInfoInputs.cache
+/home/runner/workspace/cs13net9/Chapter02/Arguments/obj/Debug/net8.0/Arguments.AssemblyInfo.cs
+/home/runner/workspace/cs13net9/Chapter02/Arguments/obj/Debug/net8.0/Arguments.csproj.CoreCompileInputs.cache
+/home/runner/workspace/cs13net9/Chapter02/Arguments/obj/Debug/net8.0/Arguments.sourcelink.json
+/home/runner/workspace/cs13net9/Chapter02/Arguments/obj/Debug/net8.0/Arguments.dll
+/home/runner/workspace/cs13net9/Chapter02/Arguments/obj/Debug/net8.0/refint/Arguments.dll
+/home/runner/workspace/cs13net9/Chapter02/Arguments/obj/Debug/net8.0/Arguments.pdb
+/home/runner/workspace/cs13net9/Chapter02/Arguments/obj/Debug/net8.0/Arguments.genruntimeconfig.cache
+/home/runner/workspace/cs13net9/Chapter02/Arguments/obj/Debug/net8.0/ref/Arguments.dll

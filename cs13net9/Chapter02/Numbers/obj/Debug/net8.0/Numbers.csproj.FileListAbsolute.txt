@@ -1,0 +1,15 @@
+/home/runner/workspace/cs13net9/Chapter02/Numbers/bin/Debug/net8.0/Numbers
+/home/runner/workspace/cs13net9/Chapter02/Numbers/bin/Debug/net8.0/Numbers.deps.json
+/home/runner/workspace/cs13net9/Chapter02/Numbers/bin/Debug/net8.0/Numbers.runtimeconfig.json
+/home/runner/workspace/cs13net9/Chapter02/Numbers/bin/Debug/net8.0/Numbers.dll
+/home/runner/workspace/cs13net9/Chapter02/Numbers/bin/Debug/net8.0/Numbers.pdb
+/home/runner/workspace/cs13net9/Chapter02/Numbers/obj/Debug/net8.0/Numbers.GeneratedMSBuildEditorConfig.editorconfig
+/home/runner/workspace/cs13net9/Chapter02/Numbers/obj/Debug/net8.0/Numbers.AssemblyInfoInputs.cache
+/home/runner/workspace/cs13net9/Chapter02/Numbers/obj/Debug/net8.0/Numbers.AssemblyInfo.cs
+/home/runner/workspace/cs13net9/Chapter02/Numbers/obj/Debug/net8.0/Numbers.csproj.CoreCompileInputs.cache
+/home/runner/workspace/cs13net9/Chapter02/Numbers/obj/Debug/net8.0/Numbers.sourcelink.json
+/home/runner/workspace/cs13net9/Chapter02/Numbers/obj/Debug/net8.0/Numbers.dll
+/home/runner/workspace/cs13net9/Chapter02/Numbers/obj/Debug/net8.0/refint/Numbers.dll
+/home/runner/workspace/cs13net9/Chapter02/Numbers/obj/Debug/net8.0/Numbers.pdb
+/home/runner/workspace/cs13net9/Chapter02/Numbers/obj/Debug/net8.0/Numbers.genruntimeconfig.cache
+/home/runner/workspace/cs13net9/Chapter02/Numbers/obj/Debug/net8.0/ref/Numbers.dll

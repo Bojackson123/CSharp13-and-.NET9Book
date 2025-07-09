@@ -1,0 +1,15 @@
+/home/runner/workspace/cs13net9/Chapter03/Operators/bin/Debug/net8.0/Operators
+/home/runner/workspace/cs13net9/Chapter03/Operators/bin/Debug/net8.0/Operators.deps.json
+/home/runner/workspace/cs13net9/Chapter03/Operators/bin/Debug/net8.0/Operators.runtimeconfig.json
+/home/runner/workspace/cs13net9/Chapter03/Operators/bin/Debug/net8.0/Operators.dll
+/home/runner/workspace/cs13net9/Chapter03/Operators/bin/Debug/net8.0/Operators.pdb
+/home/runner/workspace/cs13net9/Chapter03/Operators/obj/Debug/net8.0/Operators.GeneratedMSBuildEditorConfig.editorconfig
+/home/runner/workspace/cs13net9/Chapter03/Operators/obj/Debug/net8.0/Operators.AssemblyInfoInputs.cache
+/home/runner/workspace/cs13net9/Chapter03/Operators/obj/Debug/net8.0/Operators.AssemblyInfo.cs
+/home/runner/workspace/cs13net9/Chapter03/Operators/obj/Debug/net8.0/Operators.csproj.CoreCompileInputs.cache
+/home/runner/workspace/cs13net9/Chapter03/Operators/obj/Debug/net8.0/Operators.sourcelink.json
+/home/runner/workspace/cs13net9/Chapter03/Operators/obj/Debug/net8.0/Operators.dll
+/home/runner/workspace/cs13net9/Chapter03/Operators/obj/Debug/net8.0/refint/Operators.dll
+/home/runner/workspace/cs13net9/Chapter03/Operators/obj/Debug/net8.0/Operators.pdb
+/home/runner/workspace/cs13net9/Chapter03/Operators/obj/Debug/net8.0/Operators.genruntimeconfig.cache
+/home/runner/workspace/cs13net9/Chapter03/Operators/obj/Debug/net8.0/ref/Operators.dll

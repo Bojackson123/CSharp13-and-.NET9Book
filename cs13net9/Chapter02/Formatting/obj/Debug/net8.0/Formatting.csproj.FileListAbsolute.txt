@@ -1,0 +1,15 @@
+/home/runner/workspace/cs13net9/Chapter02/Formatting/obj/Debug/net8.0/Formatting.GeneratedMSBuildEditorConfig.editorconfig
+/home/runner/workspace/cs13net9/Chapter02/Formatting/obj/Debug/net8.0/Formatting.AssemblyInfoInputs.cache
+/home/runner/workspace/cs13net9/Chapter02/Formatting/obj/Debug/net8.0/Formatting.AssemblyInfo.cs
+/home/runner/workspace/cs13net9/Chapter02/Formatting/obj/Debug/net8.0/Formatting.csproj.CoreCompileInputs.cache
+/home/runner/workspace/cs13net9/Chapter02/Formatting/obj/Debug/net8.0/Formatting.sourcelink.json
+/home/runner/workspace/cs13net9/Chapter02/Formatting/bin/Debug/net8.0/Formatting
+/home/runner/workspace/cs13net9/Chapter02/Formatting/bin/Debug/net8.0/Formatting.deps.json
+/home/runner/workspace/cs13net9/Chapter02/Formatting/bin/Debug/net8.0/Formatting.runtimeconfig.json
+/home/runner/workspace/cs13net9/Chapter02/Formatting/bin/Debug/net8.0/Formatting.dll
+/home/runner/workspace/cs13net9/Chapter02/Formatting/bin/Debug/net8.0/Formatting.pdb
+/home/runner/workspace/cs13net9/Chapter02/Formatting/obj/Debug/net8.0/Formatting.dll
+/home/runner/workspace/cs13net9/Chapter02/Formatting/obj/Debug/net8.0/refint/Formatting.dll
+/home/runner/workspace/cs13net9/Chapter02/Formatting/obj/Debug/net8.0/Formatting.pdb
+/home/runner/workspace/cs13net9/Chapter02/Formatting/obj/Debug/net8.0/Formatting.genruntimeconfig.cache
+/home/runner/workspace/cs13net9/Chapter02/Formatting/obj/Debug/net8.0/ref/Formatting.dll

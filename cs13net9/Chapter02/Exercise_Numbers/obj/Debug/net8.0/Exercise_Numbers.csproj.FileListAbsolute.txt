@@ -1,0 +1,15 @@
+/home/runner/workspace/cs13net9/Chapter02/Exercise_Numbers/bin/Debug/net8.0/Exercise_Numbers
+/home/runner/workspace/cs13net9/Chapter02/Exercise_Numbers/bin/Debug/net8.0/Exercise_Numbers.deps.json
+/home/runner/workspace/cs13net9/Chapter02/Exercise_Numbers/bin/Debug/net8.0/Exercise_Numbers.runtimeconfig.json
+/home/runner/workspace/cs13net9/Chapter02/Exercise_Numbers/bin/Debug/net8.0/Exercise_Numbers.dll
+/home/runner/workspace/cs13net9/Chapter02/Exercise_Numbers/bin/Debug/net8.0/Exercise_Numbers.pdb
+/home/runner/workspace/cs13net9/Chapter02/Exercise_Numbers/obj/Debug/net8.0/Exercise_Numbers.GeneratedMSBuildEditorConfig.editorconfig
+/home/runner/workspace/cs13net9/Chapter02/Exercise_Numbers/obj/Debug/net8.0/Exercise_Numbers.AssemblyInfoInputs.cache
+/home/runner/workspace/cs13net9/Chapter02/Exercise_Numbers/obj/Debug/net8.0/Exercise_Numbers.AssemblyInfo.cs
+/home/runner/workspace/cs13net9/Chapter02/Exercise_Numbers/obj/Debug/net8.0/Exercise_Numbers.csproj.CoreCompileInputs.cache
+/home/runner/workspace/cs13net9/Chapter02/Exercise_Numbers/obj/Debug/net8.0/Exercise_Numbers.sourcelink.json
+/home/runner/workspace/cs13net9/Chapter02/Exercise_Numbers/obj/Debug/net8.0/Exercise_Numbers.dll
+/home/runner/workspace/cs13net9/Chapter02/Exercise_Numbers/obj/Debug/net8.0/refint/Exercise_Numbers.dll
+/home/runner/workspace/cs13net9/Chapter02/Exercise_Numbers/obj/Debug/net8.0/Exercise_Numbers.pdb
+/home/runner/workspace/cs13net9/Chapter02/Exercise_Numbers/obj/Debug/net8.0/Exercise_Numbers.genruntimeconfig.cache
+/home/runner/workspace/cs13net9/Chapter02/Exercise_Numbers/obj/Debug/net8.0/ref/Exercise_Numbers.dll
