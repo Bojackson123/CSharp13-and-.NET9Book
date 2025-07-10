@@ -1,0 +1,15 @@
+/home/runner/workspace/cs13net9/Chapter04/WritingFunctions/bin/Debug/net8.0/WritingFunctions
+/home/runner/workspace/cs13net9/Chapter04/WritingFunctions/bin/Debug/net8.0/WritingFunctions.deps.json
+/home/runner/workspace/cs13net9/Chapter04/WritingFunctions/bin/Debug/net8.0/WritingFunctions.runtimeconfig.json
+/home/runner/workspace/cs13net9/Chapter04/WritingFunctions/bin/Debug/net8.0/WritingFunctions.dll
+/home/runner/workspace/cs13net9/Chapter04/WritingFunctions/bin/Debug/net8.0/WritingFunctions.pdb
+/home/runner/workspace/cs13net9/Chapter04/WritingFunctions/obj/Debug/net8.0/WritingFunctions.GeneratedMSBuildEditorConfig.editorconfig
+/home/runner/workspace/cs13net9/Chapter04/WritingFunctions/obj/Debug/net8.0/WritingFunctions.AssemblyInfoInputs.cache
+/home/runner/workspace/cs13net9/Chapter04/WritingFunctions/obj/Debug/net8.0/WritingFunctions.AssemblyInfo.cs
+/home/runner/workspace/cs13net9/Chapter04/WritingFunctions/obj/Debug/net8.0/WritingFunctions.csproj.CoreCompileInputs.cache
+/home/runner/workspace/cs13net9/Chapter04/WritingFunctions/obj/Debug/net8.0/WritingFunctions.sourcelink.json
+/home/runner/workspace/cs13net9/Chapter04/WritingFunctions/obj/Debug/net8.0/WritingFunctions.dll
+/home/runner/workspace/cs13net9/Chapter04/WritingFunctions/obj/Debug/net8.0/refint/WritingFunctions.dll
+/home/runner/workspace/cs13net9/Chapter04/WritingFunctions/obj/Debug/net8.0/WritingFunctions.pdb
+/home/runner/workspace/cs13net9/Chapter04/WritingFunctions/obj/Debug/net8.0/WritingFunctions.genruntimeconfig.cache
+/home/runner/workspace/cs13net9/Chapter04/WritingFunctions/obj/Debug/net8.0/ref/WritingFunctions.dll

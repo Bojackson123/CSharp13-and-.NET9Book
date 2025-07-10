@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IterationStatements", "Iter
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrays", "Arrays\Arrays.csproj", "{84AAFEFD-4171-47DD-9B7B-B4AEC0C3630C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CastingConverting", "CastingConverting\CastingConverting.csproj", "{1B885D75-2F2F-4604-9C4B-FC78497A3E09}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HandlingExceptions", "HandlingExceptions\HandlingExceptions.csproj", "{5E0B6653-901B-4321-8575-37E2346005F1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +34,13 @@ Global
 		{84AAFEFD-4171-47DD-9B7B-B4AEC0C3630C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{84AAFEFD-4171-47DD-9B7B-B4AEC0C3630C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{84AAFEFD-4171-47DD-9B7B-B4AEC0C3630C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B885D75-2F2F-4604-9C4B-FC78497A3E09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B885D75-2F2F-4604-9C4B-FC78497A3E09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B885D75-2F2F-4604-9C4B-FC78497A3E09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B885D75-2F2F-4604-9C4B-FC78497A3E09}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E0B6653-901B-4321-8575-37E2346005F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E0B6653-901B-4321-8575-37E2346005F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E0B6653-901B-4321-8575-37E2346005F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E0B6653-901B-4321-8575-37E2346005F1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

@@ -15,7 +15,7 @@ class Program
         names[2] = "Rebecca";
         names[3] = "Tom";
 
-        string[] names2 = new string[] {"Kate", "Jack", "Rebecca", "Tom"};
+        string[] names2 = new string[] { "Kate", "Jack", "Rebecca", "Tom" };
 
         // Loop through the names.
         for (int i = 0; i < names2.Length; i++)
@@ -51,14 +51,22 @@ class Program
             new[] {"Aardvark", "Bear"}
         };
 
-        Console.WriteLine($"Upper bound of the array of arrays is: {0}",
+        Console.WriteLine("Upper bound of the array of arrays is: {0}",
             jagged.GetUpperBound(0));
 
         for (int array = 0; array <= jagged.GetUpperBound(0); array++)
         {
-            Console.WriteLine($"Upper bound of array {0} is: {1}",
-                arg0: array, 
+            Console.WriteLine("Upper bound of array {0} is: {1}",
+                arg0: array,
                 arg1: jagged[array].GetUpperBound(0));
+        }
+
+        for (int row = 0; row <= jagged.GetUpperBound(0); row++)
+        {
+            for (int col = 0; col <= jagged[row].GetUpperBound(0); col++)
+            {
+                Console.WriteLine($"Row {row}, Column {col}: {jagged[row][col]}");
+            }
         }
     }
 }
