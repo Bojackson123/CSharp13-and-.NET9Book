@@ -1,0 +1,16 @@
+
+{
+  "omnisharp.enableEditorConfigSupport": true,
+  "omnisharp.enableImportCompletion": true,
+  "omnisharp.enableRoslynAnalyzers": true,
+  "editor.formatOnType": true,
+  "csharp.format.enable": true,
+  "omnisharp.organizeImportsOnFormat": true,
+  "[csharp]": {
+    "editor.formatOnType": true,
+    "editor.formatOnSave": true,
+    "editor.codeActionsOnSave": {
+      "source.organizeImports": true
+    }
+  }
+}
