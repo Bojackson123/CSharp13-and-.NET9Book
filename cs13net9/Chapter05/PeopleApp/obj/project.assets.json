@@ -1,0 +1,94 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "PacktLibraryNet2/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/PacktLibraryNet2.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PacktLibraryNet2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PacktLibraryNet2/1.0.0": {
+      "type": "project",
+      "path": "../PacktLibraryNet2/PacktLibraryNet2.csproj",
+      "msbuildProject": "../PacktLibraryNet2/PacktLibraryNet2.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "PacktLibraryNet2 >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/home/runner/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/home/runner/workspace/cs13net9/Chapter05/PeopleApp/PeopleApp.csproj",
+      "projectName": "PeopleApp",
+      "projectPath": "/home/runner/workspace/cs13net9/Chapter05/PeopleApp/PeopleApp.csproj",
+      "packagesPath": "/home/runner/.nuget/packages/",
+      "outputPath": "/home/runner/workspace/cs13net9/Chapter05/PeopleApp/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/home/runner/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "/home/runner/workspace/cs13net9/Chapter05/PacktLibraryNet2/PacktLibraryNet2.csproj": {
+              "projectPath": "/home/runner/workspace/cs13net9/Chapter05/PacktLibraryNet2/PacktLibraryNet2.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/nix/store/wlknwwx8f79lq8n07b0xh7ddjrrk191h-dotnet-sdk-8.0.404/share/dotnet/sdk/8.0.404/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

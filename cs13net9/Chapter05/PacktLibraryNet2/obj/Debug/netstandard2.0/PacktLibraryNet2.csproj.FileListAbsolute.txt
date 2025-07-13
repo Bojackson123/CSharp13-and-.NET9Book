@@ -4,3 +4,8 @@
 /home/runner/workspace/cs13net9/Chapter05/PacktLibraryNet2/obj/Debug/netstandard2.0/PacktLibraryNet2.AssemblyInfo.cs
 /home/runner/workspace/cs13net9/Chapter05/PacktLibraryNet2/obj/Debug/netstandard2.0/PacktLibraryNet2.csproj.CoreCompileInputs.cache
 /home/runner/workspace/cs13net9/Chapter05/PacktLibraryNet2/obj/Debug/netstandard2.0/PacktLibraryNet2.sourcelink.json
+/home/runner/workspace/cs13net9/Chapter05/PacktLibraryNet2/bin/Debug/netstandard2.0/PacktLibraryNet2.deps.json
+/home/runner/workspace/cs13net9/Chapter05/PacktLibraryNet2/bin/Debug/netstandard2.0/PacktLibraryNet2.dll
+/home/runner/workspace/cs13net9/Chapter05/PacktLibraryNet2/bin/Debug/netstandard2.0/PacktLibraryNet2.pdb
+/home/runner/workspace/cs13net9/Chapter05/PacktLibraryNet2/obj/Debug/netstandard2.0/PacktLibraryNet2.dll
+/home/runner/workspace/cs13net9/Chapter05/PacktLibraryNet2/obj/Debug/netstandard2.0/PacktLibraryNet2.pdb
