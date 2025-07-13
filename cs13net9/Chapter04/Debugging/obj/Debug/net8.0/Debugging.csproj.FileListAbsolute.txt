@@ -1,0 +1,15 @@
+/home/runner/workspace/cs13net9/Chapter04/Debugging/bin/Debug/net8.0/Debugging
+/home/runner/workspace/cs13net9/Chapter04/Debugging/bin/Debug/net8.0/Debugging.deps.json
+/home/runner/workspace/cs13net9/Chapter04/Debugging/bin/Debug/net8.0/Debugging.runtimeconfig.json
+/home/runner/workspace/cs13net9/Chapter04/Debugging/bin/Debug/net8.0/Debugging.dll
+/home/runner/workspace/cs13net9/Chapter04/Debugging/bin/Debug/net8.0/Debugging.pdb
+/home/runner/workspace/cs13net9/Chapter04/Debugging/obj/Debug/net8.0/Debugging.GeneratedMSBuildEditorConfig.editorconfig
+/home/runner/workspace/cs13net9/Chapter04/Debugging/obj/Debug/net8.0/Debugging.AssemblyInfoInputs.cache
+/home/runner/workspace/cs13net9/Chapter04/Debugging/obj/Debug/net8.0/Debugging.AssemblyInfo.cs
+/home/runner/workspace/cs13net9/Chapter04/Debugging/obj/Debug/net8.0/Debugging.csproj.CoreCompileInputs.cache
+/home/runner/workspace/cs13net9/Chapter04/Debugging/obj/Debug/net8.0/Debugging.sourcelink.json
+/home/runner/workspace/cs13net9/Chapter04/Debugging/obj/Debug/net8.0/Debugging.dll
+/home/runner/workspace/cs13net9/Chapter04/Debugging/obj/Debug/net8.0/refint/Debugging.dll
+/home/runner/workspace/cs13net9/Chapter04/Debugging/obj/Debug/net8.0/Debugging.pdb
+/home/runner/workspace/cs13net9/Chapter04/Debugging/obj/Debug/net8.0/Debugging.genruntimeconfig.cache
+/home/runner/workspace/cs13net9/Chapter04/Debugging/obj/Debug/net8.0/ref/Debugging.dll

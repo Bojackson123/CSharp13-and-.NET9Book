@@ -1,0 +1,12 @@
+/home/runner/workspace/cs13net9/Chapter04/CalculatorLib/bin/Debug/net8.0/CalculatorLib.deps.json
+/home/runner/workspace/cs13net9/Chapter04/CalculatorLib/bin/Debug/net8.0/CalculatorLib.dll
+/home/runner/workspace/cs13net9/Chapter04/CalculatorLib/bin/Debug/net8.0/CalculatorLib.pdb
+/home/runner/workspace/cs13net9/Chapter04/CalculatorLib/obj/Debug/net8.0/CalculatorLib.GeneratedMSBuildEditorConfig.editorconfig
+/home/runner/workspace/cs13net9/Chapter04/CalculatorLib/obj/Debug/net8.0/CalculatorLib.AssemblyInfoInputs.cache
+/home/runner/workspace/cs13net9/Chapter04/CalculatorLib/obj/Debug/net8.0/CalculatorLib.AssemblyInfo.cs
+/home/runner/workspace/cs13net9/Chapter04/CalculatorLib/obj/Debug/net8.0/CalculatorLib.csproj.CoreCompileInputs.cache
+/home/runner/workspace/cs13net9/Chapter04/CalculatorLib/obj/Debug/net8.0/CalculatorLib.sourcelink.json
+/home/runner/workspace/cs13net9/Chapter04/CalculatorLib/obj/Debug/net8.0/CalculatorLib.dll
+/home/runner/workspace/cs13net9/Chapter04/CalculatorLib/obj/Debug/net8.0/refint/CalculatorLib.dll
+/home/runner/workspace/cs13net9/Chapter04/CalculatorLib/obj/Debug/net8.0/CalculatorLib.pdb
+/home/runner/workspace/cs13net9/Chapter04/CalculatorLib/obj/Debug/net8.0/ref/CalculatorLib.dll

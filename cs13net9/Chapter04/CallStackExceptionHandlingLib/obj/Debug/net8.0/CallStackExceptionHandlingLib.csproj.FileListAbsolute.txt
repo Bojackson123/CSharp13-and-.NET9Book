@@ -1,0 +1,12 @@
+/home/runner/workspace/cs13net9/Chapter04/CallStackExceptionHandlingLib/bin/Debug/net8.0/CallStackExceptionHandlingLib.deps.json
+/home/runner/workspace/cs13net9/Chapter04/CallStackExceptionHandlingLib/bin/Debug/net8.0/CallStackExceptionHandlingLib.dll
+/home/runner/workspace/cs13net9/Chapter04/CallStackExceptionHandlingLib/bin/Debug/net8.0/CallStackExceptionHandlingLib.pdb
+/home/runner/workspace/cs13net9/Chapter04/CallStackExceptionHandlingLib/obj/Debug/net8.0/CallStackExceptionHandlingLib.GeneratedMSBuildEditorConfig.editorconfig
+/home/runner/workspace/cs13net9/Chapter04/CallStackExceptionHandlingLib/obj/Debug/net8.0/CallStackExceptionHandlingLib.AssemblyInfoInputs.cache
+/home/runner/workspace/cs13net9/Chapter04/CallStackExceptionHandlingLib/obj/Debug/net8.0/CallStackExceptionHandlingLib.AssemblyInfo.cs
+/home/runner/workspace/cs13net9/Chapter04/CallStackExceptionHandlingLib/obj/Debug/net8.0/CallStackExceptionHandlingLib.csproj.CoreCompileInputs.cache
+/home/runner/workspace/cs13net9/Chapter04/CallStackExceptionHandlingLib/obj/Debug/net8.0/CallStackExceptionHandlingLib.sourcelink.json
+/home/runner/workspace/cs13net9/Chapter04/CallStackExceptionHandlingLib/obj/Debug/net8.0/CallStackExceptionHandlingLib.dll
+/home/runner/workspace/cs13net9/Chapter04/CallStackExceptionHandlingLib/obj/Debug/net8.0/refint/CallStackExceptionHandlingLib.dll
+/home/runner/workspace/cs13net9/Chapter04/CallStackExceptionHandlingLib/obj/Debug/net8.0/CallStackExceptionHandlingLib.pdb
+/home/runner/workspace/cs13net9/Chapter04/CallStackExceptionHandlingLib/obj/Debug/net8.0/ref/CallStackExceptionHandlingLib.dll

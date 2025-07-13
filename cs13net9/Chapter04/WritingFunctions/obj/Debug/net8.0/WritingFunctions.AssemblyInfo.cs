@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WritingFunctions")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8432b01fa6513fe940ea2f8acf1dfcb95880f698")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a2141ec18494ab8be1a71661d286998467b4f3ba")]
 [assembly: System.Reflection.AssemblyProductAttribute("WritingFunctions")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WritingFunctions")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
