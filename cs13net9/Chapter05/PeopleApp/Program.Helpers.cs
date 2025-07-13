@@ -1,4 +1,4 @@
-using System.Globalization; // To use cultureInfo.
+using System.Globalization; // To use CultureInfo.
 
 partial class Program 
 {
@@ -7,16 +7,16 @@ partial class Program
     bool useComputerCulture = false,
     bool showCulture = true)
   {
-    OutputEncoding = System.Text.Encoding.UTF8;
+    Console.OutputEncoding = System.Text.Encoding.UTF8;
 
     if (!useComputerCulture)
     {
-      CultureInfo.CurrentCulture = CultrueInfo.GetCultureInfo(culture);
+      CultureInfo.CurrentCulture = CultureInfo.GetCultureInfo(culture);
     }
 
-    if (showCultrue)
+    if (showCulture)
     {
-      Console.WriteLine($"Current cultrue: {CultureInfo.CurrentCultrue.DisplayName}.");
+      Console.WriteLine($"Current culture: {CultureInfo.CurrentCulture.DisplayName}.");
     }
   }
 }
