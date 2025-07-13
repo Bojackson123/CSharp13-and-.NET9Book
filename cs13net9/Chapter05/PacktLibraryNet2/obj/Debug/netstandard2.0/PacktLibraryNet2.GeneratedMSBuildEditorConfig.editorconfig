@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = PacktLibraryNet2
+build_property.ProjectDir = /home/runner/workspace/cs13net9/Chapter05/PacktLibraryNet2/
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
