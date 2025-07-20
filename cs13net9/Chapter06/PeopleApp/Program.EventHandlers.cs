@@ -1,7 +1,6 @@
 using Packt.Shared; // To use Person.
 
-// No namespace declaration so this extends the Program class
-// in the null namespace.
+namespace PeopleApp;
 
 partial class Program
 {
