@@ -17,3 +17,5 @@
 /home/runner/workspace/cs13net9/Chapter05/PeopleApp/obj/Debug/net8.0/PeopleApp.pdb
 /home/runner/workspace/cs13net9/Chapter05/PeopleApp/obj/Debug/net8.0/PeopleApp.genruntimeconfig.cache
 /home/runner/workspace/cs13net9/Chapter05/PeopleApp/obj/Debug/net8.0/ref/PeopleApp.dll
+/home/runner/workspace/cs13net9/Chapter05/PeopleApp/bin/Debug/net8.0/PacktLibraryModern.dll
+/home/runner/workspace/cs13net9/Chapter05/PeopleApp/bin/Debug/net8.0/PacktLibraryModern.pdb

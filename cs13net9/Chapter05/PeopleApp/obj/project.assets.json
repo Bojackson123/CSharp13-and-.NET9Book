@@ -2,6 +2,16 @@
   "version": 3,
   "targets": {
     "net8.0": {
+      "PacktLibraryModern/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/PacktLibraryModern.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PacktLibraryModern.dll": {}
+        }
+      },
       "PacktLibraryNet2/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
@@ -15,6 +25,11 @@
     }
   },
   "libraries": {
+    "PacktLibraryModern/1.0.0": {
+      "type": "project",
+      "path": "../PacktLibraryModern/PacktLibraryModern.csproj",
+      "msbuildProject": "../PacktLibraryModern/PacktLibraryModern.csproj"
+    },
     "PacktLibraryNet2/1.0.0": {
       "type": "project",
       "path": "../PacktLibraryNet2/PacktLibraryNet2.csproj",
@@ -23,6 +38,7 @@
   },
   "projectFileDependencyGroups": {
     "net8.0": [
+      "PacktLibraryModern >= 1.0.0",
       "PacktLibraryNet2 >= 1.0.0"
     ]
   },
@@ -51,6 +67,9 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
+            "/home/runner/workspace/cs13net9/Chapter05/PacktLibraryModern/PacktLibraryModern.csproj": {
+              "projectPath": "/home/runner/workspace/cs13net9/Chapter05/PacktLibraryModern/PacktLibraryModern.csproj"
+            },
             "/home/runner/workspace/cs13net9/Chapter05/PacktLibraryNet2/PacktLibraryNet2.csproj": {
               "projectPath": "/home/runner/workspace/cs13net9/Chapter05/PacktLibraryNet2/PacktLibraryNet2.csproj"
             }

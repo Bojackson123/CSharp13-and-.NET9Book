@@ -1,0 +1,12 @@
+/home/runner/workspace/cs13net9/Chapter06/PacktLibrary/bin/Debug/net8.0/PacktLibrary.deps.json
+/home/runner/workspace/cs13net9/Chapter06/PacktLibrary/bin/Debug/net8.0/PacktLibrary.dll
+/home/runner/workspace/cs13net9/Chapter06/PacktLibrary/bin/Debug/net8.0/PacktLibrary.pdb
+/home/runner/workspace/cs13net9/Chapter06/PacktLibrary/obj/Debug/net8.0/PacktLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/home/runner/workspace/cs13net9/Chapter06/PacktLibrary/obj/Debug/net8.0/PacktLibrary.AssemblyInfoInputs.cache
+/home/runner/workspace/cs13net9/Chapter06/PacktLibrary/obj/Debug/net8.0/PacktLibrary.AssemblyInfo.cs
+/home/runner/workspace/cs13net9/Chapter06/PacktLibrary/obj/Debug/net8.0/PacktLibrary.csproj.CoreCompileInputs.cache
+/home/runner/workspace/cs13net9/Chapter06/PacktLibrary/obj/Debug/net8.0/PacktLibrary.sourcelink.json
+/home/runner/workspace/cs13net9/Chapter06/PacktLibrary/obj/Debug/net8.0/PacktLibrary.dll
+/home/runner/workspace/cs13net9/Chapter06/PacktLibrary/obj/Debug/net8.0/refint/PacktLibrary.dll
+/home/runner/workspace/cs13net9/Chapter06/PacktLibrary/obj/Debug/net8.0/PacktLibrary.pdb
+/home/runner/workspace/cs13net9/Chapter06/PacktLibrary/obj/Debug/net8.0/ref/PacktLibrary.dll
