@@ -3,7 +3,7 @@ using System.Collections;
 
 namespace PeopleApp;
 
-class Program
+partial class Program
 {
     static void Main(string[] args)
     {
@@ -91,12 +91,31 @@ class Program
         Console.WriteLine("==================================");
 
         // Assign the method to the shout delegate.
-        harry.Shout = Harry_Shout;
-
+        harry.Shout += Harry_Shout;
+        harry.Shout += Harry_Shout_2;
+        
         // Call the poke method that eventually raises the Shout event.
         harry.Poke();
         harry.Poke();
         harry.Poke();
         harry.Poke();
+
+        Console.WriteLine("==================================");
+
+        Person?[] people = 
+        {
+            null,
+            new() {Name = "Simon"},
+            new() {Name = "Jenny"},
+            new() {Name = "Adam"},
+            new() {Name = null},
+            new() {Name = "Richard"}
+        };
+
+        OutputPeopleNames(people, "Initial list of people:");
+
+        Array.Sort(people);
+        
+        OutputPeopleNames(people, "After sorting using Person's IComparable implementation");
     }
 }
