@@ -157,7 +157,7 @@ public class Person : IComparable
 
         if (other is not null)
         {
-            if ((Name is not null) && (other.Name is null))
+            if ((Name is not null) && (other.Name is not null))
             {
                 // If both Name values are not null, then
                 // use the string implementation to CompareTo.
