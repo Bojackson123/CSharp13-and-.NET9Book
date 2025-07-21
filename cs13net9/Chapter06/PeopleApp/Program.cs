@@ -117,5 +117,101 @@ partial class Program
         Array.Sort(people);
         
         OutputPeopleNames(people, "After sorting using Person's IComparable implementation");
+
+        Array.Sort(people, new PersonComparer());
+
+        OutputPeopleNames(people, "After sorting using PersonComparer's IComparer implementation");
+
+        Console.WriteLine("==================================");
+
+        Employee john = new()
+        {
+            Name = "John Jones",
+            Born = new(1990, 7, 28, 0, 0, 0, TimeSpan.Zero)
+        };
+
+        john.WriteToConsole();
+
+        john.EmployeeCode = "JJ001";
+        john.HireDate = new(2014, 11, 23);
+        Console.WriteLine($"{john.Name} was hired on {john.HireDate:yyyy-MM-dd}.");
+
+        Console.WriteLine(john.ToString());
+
+        Employee aliceInEmployee = new() {Name = "Alice", EmployeeCode = "AA123"};
+        Person aliceInPerson = aliceInEmployee;
+        aliceInEmployee.WriteToConsole();
+        aliceInPerson.WriteToConsole();
+        Console.WriteLine(aliceInEmployee.ToString());
+        Console.WriteLine(aliceInPerson.ToString());
+
+        if (aliceInPerson is Employee)
+        {
+            Console.WriteLine($"{nameof(aliceInPerson)} is an Employee");
+            Employee explicitAlice = (Employee)aliceInPerson;
+
+            // Safely do something with explicitAlice
+        }
+
+        if (aliceInEmployee is Employee explicitAliceInline)
+        {
+            Console.WriteLine($"{nameof(aliceInPerson)} is an Employee");
+
+            // Safely do something with explicitAliceInline
+        }
+
+        Employee? aliceAsEmployee = aliceInPerson as Employee;
+
+        if (aliceAsEmployee is not null)
+        {
+            Console.WriteLine($"{nameof(aliceInPerson)} as an Employee");
+
+            // Safely do something with aliceAsEmployee.
+        }
+
+        
+        Console.WriteLine("==================================");
+
+        try
+        {
+            john.TimeTravel(new(1999, 12, 31));
+            john.TimeTravel(new(1950, 12, 25)); 
+        }
+        catch (PersonException ex)
+        {
+            Console.WriteLine(ex.Message);
+        }
+        
+        Console.WriteLine("==================================");
+
+        string email1 = "pamela@test.com";
+        string email2 = "ian&test.com";
+
+        Console.WriteLine($"{email1} is a valid e-mail address: {StringExtensions.IsValidEmail(email1)}");
+        
+        Console.WriteLine($"{email2} is a valid e-mail address: {StringExtensions.IsValidEmail(email2)}");
+
+        Console.WriteLine($"{email1} is a valid e-mail address: {email1.IsValidEmail()}");
+
+        Console.WriteLine($"{email2} is a valid e-mail address: {email2.IsValidEmail()}");
+        
+
+        Console.WriteLine("==================================");
+
+        C1 c1 = new() {Name = "Bob"};
+        c1.Name = "Bill";
+
+        C2 c2 = new(Name: "Bob");
+        //c2.Name = "Bill"; // CS8852: Init-only property.
+
+        S1 s1 = new() {Name = "Bob"};
+        s1.Name = "Bill";
+
+        S2 s2 = new(Name: "Bob");
+        s2.Name = "Bill";
+
+        S3 s3 = new(Name: "Bob");
+        //s3.Name = "Bill";
+        
     }
 }

@@ -1,6 +1,6 @@
 ﻿namespace Packt.Shared;
 
-public class Person : IComparable
+public class Person : IComparable<Person?>
 {
     #region Properties
 
@@ -186,4 +186,27 @@ public class Person : IComparable
         }
         return position;
     }
+
+    #region Overriden methods
+
+    public override string ToString()
+    {
+        return $"{Name} is a {base.ToString()}.";
+    }
+
+    #endregion
+
+    public void TimeTravel(DateTime when)
+    {
+        if (when <= Born)
+        {
+            throw new PersonException("If you travel back in time to a dat earlier than your own birth, then the universe will explode!");
+        }
+        else
+        {
+            Console.WriteLine($"Welcome to {when:yyyy}!");
+        }
+    }
+        
+        
 }

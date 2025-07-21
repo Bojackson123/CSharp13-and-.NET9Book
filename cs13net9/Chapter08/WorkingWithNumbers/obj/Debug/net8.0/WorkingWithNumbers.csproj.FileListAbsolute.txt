@@ -1,0 +1,15 @@
+/home/runner/workspace/cs13net9/Chapter08/WorkingWithNumbers/bin/Debug/net8.0/WorkingWithNumbers
+/home/runner/workspace/cs13net9/Chapter08/WorkingWithNumbers/bin/Debug/net8.0/WorkingWithNumbers.deps.json
+/home/runner/workspace/cs13net9/Chapter08/WorkingWithNumbers/bin/Debug/net8.0/WorkingWithNumbers.runtimeconfig.json
+/home/runner/workspace/cs13net9/Chapter08/WorkingWithNumbers/bin/Debug/net8.0/WorkingWithNumbers.dll
+/home/runner/workspace/cs13net9/Chapter08/WorkingWithNumbers/bin/Debug/net8.0/WorkingWithNumbers.pdb
+/home/runner/workspace/cs13net9/Chapter08/WorkingWithNumbers/obj/Debug/net8.0/WorkingWithNumbers.GeneratedMSBuildEditorConfig.editorconfig
+/home/runner/workspace/cs13net9/Chapter08/WorkingWithNumbers/obj/Debug/net8.0/WorkingWithNumbers.AssemblyInfoInputs.cache
+/home/runner/workspace/cs13net9/Chapter08/WorkingWithNumbers/obj/Debug/net8.0/WorkingWithNumbers.AssemblyInfo.cs
+/home/runner/workspace/cs13net9/Chapter08/WorkingWithNumbers/obj/Debug/net8.0/WorkingWithNumbers.csproj.CoreCompileInputs.cache
+/home/runner/workspace/cs13net9/Chapter08/WorkingWithNumbers/obj/Debug/net8.0/WorkingWithNumbers.sourcelink.json
+/home/runner/workspace/cs13net9/Chapter08/WorkingWithNumbers/obj/Debug/net8.0/WorkingWithNumbers.dll
+/home/runner/workspace/cs13net9/Chapter08/WorkingWithNumbers/obj/Debug/net8.0/refint/WorkingWithNumbers.dll
+/home/runner/workspace/cs13net9/Chapter08/WorkingWithNumbers/obj/Debug/net8.0/WorkingWithNumbers.pdb
+/home/runner/workspace/cs13net9/Chapter08/WorkingWithNumbers/obj/Debug/net8.0/WorkingWithNumbers.genruntimeconfig.cache
+/home/runner/workspace/cs13net9/Chapter08/WorkingWithNumbers/obj/Debug/net8.0/ref/WorkingWithNumbers.dll

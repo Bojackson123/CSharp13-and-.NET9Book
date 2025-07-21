@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PacktLibrary", "PacktLibrary\PacktLibrary.csproj", "{B12B108D-2F50-4D2E-927B-4874FAFCB4EE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NullHandling", "NullHandling\NullHandling.csproj", "{170F0126-BD4A-4678-B27A-A3541E09E59D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{B12B108D-2F50-4D2E-927B-4874FAFCB4EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B12B108D-2F50-4D2E-927B-4874FAFCB4EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B12B108D-2F50-4D2E-927B-4874FAFCB4EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{170F0126-BD4A-4678-B27A-A3541E09E59D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{170F0126-BD4A-4678-B27A-A3541E09E59D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{170F0126-BD4A-4678-B27A-A3541E09E59D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{170F0126-BD4A-4678-B27A-A3541E09E59D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

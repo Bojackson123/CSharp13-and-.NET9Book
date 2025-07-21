@@ -1,0 +1,15 @@
+/home/runner/workspace/cs13net9/Chapter06/NullHandling/obj/Debug/net8.0/NullHandling.GeneratedMSBuildEditorConfig.editorconfig
+/home/runner/workspace/cs13net9/Chapter06/NullHandling/obj/Debug/net8.0/NullHandling.AssemblyInfoInputs.cache
+/home/runner/workspace/cs13net9/Chapter06/NullHandling/obj/Debug/net8.0/NullHandling.AssemblyInfo.cs
+/home/runner/workspace/cs13net9/Chapter06/NullHandling/obj/Debug/net8.0/NullHandling.csproj.CoreCompileInputs.cache
+/home/runner/workspace/cs13net9/Chapter06/NullHandling/obj/Debug/net8.0/NullHandling.sourcelink.json
+/home/runner/workspace/cs13net9/Chapter06/NullHandling/bin/Debug/net8.0/NullHandling
+/home/runner/workspace/cs13net9/Chapter06/NullHandling/bin/Debug/net8.0/NullHandling.deps.json
+/home/runner/workspace/cs13net9/Chapter06/NullHandling/bin/Debug/net8.0/NullHandling.runtimeconfig.json
+/home/runner/workspace/cs13net9/Chapter06/NullHandling/bin/Debug/net8.0/NullHandling.dll
+/home/runner/workspace/cs13net9/Chapter06/NullHandling/bin/Debug/net8.0/NullHandling.pdb
+/home/runner/workspace/cs13net9/Chapter06/NullHandling/obj/Debug/net8.0/NullHandling.dll
+/home/runner/workspace/cs13net9/Chapter06/NullHandling/obj/Debug/net8.0/refint/NullHandling.dll
+/home/runner/workspace/cs13net9/Chapter06/NullHandling/obj/Debug/net8.0/NullHandling.pdb
+/home/runner/workspace/cs13net9/Chapter06/NullHandling/obj/Debug/net8.0/NullHandling.genruntimeconfig.cache
+/home/runner/workspace/cs13net9/Chapter06/NullHandling/obj/Debug/net8.0/ref/NullHandling.dll
