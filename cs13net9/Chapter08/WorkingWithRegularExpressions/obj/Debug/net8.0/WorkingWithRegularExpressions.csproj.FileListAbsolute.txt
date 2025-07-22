@@ -1,0 +1,15 @@
+/home/runner/workspace/cs13net9/Chapter08/WorkingWithRegularExpressions/obj/Debug/net8.0/WorkingWithRegularExpressions.GeneratedMSBuildEditorConfig.editorconfig
+/home/runner/workspace/cs13net9/Chapter08/WorkingWithRegularExpressions/obj/Debug/net8.0/WorkingWithRegularExpressions.AssemblyInfoInputs.cache
+/home/runner/workspace/cs13net9/Chapter08/WorkingWithRegularExpressions/obj/Debug/net8.0/WorkingWithRegularExpressions.AssemblyInfo.cs
+/home/runner/workspace/cs13net9/Chapter08/WorkingWithRegularExpressions/obj/Debug/net8.0/WorkingWithRegularExpressions.csproj.CoreCompileInputs.cache
+/home/runner/workspace/cs13net9/Chapter08/WorkingWithRegularExpressions/obj/Debug/net8.0/WorkingWithRegularExpressions.sourcelink.json
+/home/runner/workspace/cs13net9/Chapter08/WorkingWithRegularExpressions/bin/Debug/net8.0/WorkingWithRegularExpressions
+/home/runner/workspace/cs13net9/Chapter08/WorkingWithRegularExpressions/bin/Debug/net8.0/WorkingWithRegularExpressions.deps.json
+/home/runner/workspace/cs13net9/Chapter08/WorkingWithRegularExpressions/bin/Debug/net8.0/WorkingWithRegularExpressions.runtimeconfig.json
+/home/runner/workspace/cs13net9/Chapter08/WorkingWithRegularExpressions/bin/Debug/net8.0/WorkingWithRegularExpressions.dll
+/home/runner/workspace/cs13net9/Chapter08/WorkingWithRegularExpressions/bin/Debug/net8.0/WorkingWithRegularExpressions.pdb
+/home/runner/workspace/cs13net9/Chapter08/WorkingWithRegularExpressions/obj/Debug/net8.0/WorkingWithRegularExpressions.dll
+/home/runner/workspace/cs13net9/Chapter08/WorkingWithRegularExpressions/obj/Debug/net8.0/refint/WorkingWithRegularExpressions.dll
+/home/runner/workspace/cs13net9/Chapter08/WorkingWithRegularExpressions/obj/Debug/net8.0/WorkingWithRegularExpressions.pdb
+/home/runner/workspace/cs13net9/Chapter08/WorkingWithRegularExpressions/obj/Debug/net8.0/WorkingWithRegularExpressions.genruntimeconfig.cache
+/home/runner/workspace/cs13net9/Chapter08/WorkingWithRegularExpressions/obj/Debug/net8.0/ref/WorkingWithRegularExpressions.dll

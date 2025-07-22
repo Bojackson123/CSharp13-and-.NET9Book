@@ -1,0 +1,6 @@
+/home/runner/workspace/cs13net9/Chapter09/WorkingWithFileSystems/obj/Debug/net8.0/WorkingWithFileSystems.csproj.AssemblyReference.cache
+/home/runner/workspace/cs13net9/Chapter09/WorkingWithFileSystems/obj/Debug/net8.0/WorkingWithFileSystems.GeneratedMSBuildEditorConfig.editorconfig
+/home/runner/workspace/cs13net9/Chapter09/WorkingWithFileSystems/obj/Debug/net8.0/WorkingWithFileSystems.AssemblyInfoInputs.cache
+/home/runner/workspace/cs13net9/Chapter09/WorkingWithFileSystems/obj/Debug/net8.0/WorkingWithFileSystems.AssemblyInfo.cs
+/home/runner/workspace/cs13net9/Chapter09/WorkingWithFileSystems/obj/Debug/net8.0/WorkingWithFileSystems.csproj.CoreCompileInputs.cache
+/home/runner/workspace/cs13net9/Chapter09/WorkingWithFileSystems/obj/Debug/net8.0/WorkingWithFileSystems.sourcelink.json

@@ -1,0 +1,15 @@
+/home/runner/workspace/cs13net9/Chapter08/WorkingWithCollections/obj/Debug/net8.0/WorkingWithCollections.GeneratedMSBuildEditorConfig.editorconfig
+/home/runner/workspace/cs13net9/Chapter08/WorkingWithCollections/obj/Debug/net8.0/WorkingWithCollections.AssemblyInfoInputs.cache
+/home/runner/workspace/cs13net9/Chapter08/WorkingWithCollections/obj/Debug/net8.0/WorkingWithCollections.AssemblyInfo.cs
+/home/runner/workspace/cs13net9/Chapter08/WorkingWithCollections/obj/Debug/net8.0/WorkingWithCollections.csproj.CoreCompileInputs.cache
+/home/runner/workspace/cs13net9/Chapter08/WorkingWithCollections/obj/Debug/net8.0/WorkingWithCollections.sourcelink.json
+/home/runner/workspace/cs13net9/Chapter08/WorkingWithCollections/bin/Debug/net8.0/WorkingWithCollections
+/home/runner/workspace/cs13net9/Chapter08/WorkingWithCollections/bin/Debug/net8.0/WorkingWithCollections.deps.json
+/home/runner/workspace/cs13net9/Chapter08/WorkingWithCollections/bin/Debug/net8.0/WorkingWithCollections.runtimeconfig.json
+/home/runner/workspace/cs13net9/Chapter08/WorkingWithCollections/bin/Debug/net8.0/WorkingWithCollections.dll
+/home/runner/workspace/cs13net9/Chapter08/WorkingWithCollections/bin/Debug/net8.0/WorkingWithCollections.pdb
+/home/runner/workspace/cs13net9/Chapter08/WorkingWithCollections/obj/Debug/net8.0/WorkingWithCollections.dll
+/home/runner/workspace/cs13net9/Chapter08/WorkingWithCollections/obj/Debug/net8.0/refint/WorkingWithCollections.dll
+/home/runner/workspace/cs13net9/Chapter08/WorkingWithCollections/obj/Debug/net8.0/WorkingWithCollections.pdb
+/home/runner/workspace/cs13net9/Chapter08/WorkingWithCollections/obj/Debug/net8.0/WorkingWithCollections.genruntimeconfig.cache
+/home/runner/workspace/cs13net9/Chapter08/WorkingWithCollections/obj/Debug/net8.0/ref/WorkingWithCollections.dll

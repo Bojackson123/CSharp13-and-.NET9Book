@@ -67,8 +67,23 @@ Console.WriteLine($"text1: {text1}, text2: {text2}");
 
 Console.WriteLine($"Compare: {string.Compare(text1, text2)}");
 
-Console.WriteLine("Compare  (IgnoreCase, IgnoreNonSpace): {0}", string.Compare(text1, text2, CultureInfo.CurrentCulture, CompareOptions.IgnoreNonSpace | CompareOptions.IgnoreCase"));
+Console.WriteLine("Compare  (IgnoreCase, IgnoreNonSpace): {0}", string.Compare(text1, text2, CultureInfo.CurrentCulture, CompareOptions.IgnoreNonSpace | CompareOptions.IgnoreCase));
 
 Console.WriteLine("Compare (InvariantCultureIgnoreCase): {0}.",
     string.Compare(text1, text2, StringComparison.InvariantCultureIgnoreCase));
+
+Console.WriteLine(new string('-', width));
+
+string recombined = string.Join(" => ", citiesArray);
+Console.WriteLine(recombined);
+
+string fruit = "Apples";
+decimal price = 0.39M;
+DateTime when = DateTime.Today;
+
+Console.WriteLine($"Interpolated: {fruit} cost {price:C} on {when:dddd}.");
+Console.WriteLine(string.Format("string.Format: {0} cost {1:C} on {2:dddd}.",
+    arg0: fruit, arg1: price, arg2: when));
+
+Console.WriteLine(new string('-', width));
 

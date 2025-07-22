@@ -1,0 +1,15 @@
+/home/runner/workspace/cs13net9/Chapter08/WorkingWithRanges/obj/Debug/net8.0/WorkingWithRanges.GeneratedMSBuildEditorConfig.editorconfig
+/home/runner/workspace/cs13net9/Chapter08/WorkingWithRanges/obj/Debug/net8.0/WorkingWithRanges.AssemblyInfoInputs.cache
+/home/runner/workspace/cs13net9/Chapter08/WorkingWithRanges/obj/Debug/net8.0/WorkingWithRanges.AssemblyInfo.cs
+/home/runner/workspace/cs13net9/Chapter08/WorkingWithRanges/obj/Debug/net8.0/WorkingWithRanges.csproj.CoreCompileInputs.cache
+/home/runner/workspace/cs13net9/Chapter08/WorkingWithRanges/obj/Debug/net8.0/WorkingWithRanges.sourcelink.json
+/home/runner/workspace/cs13net9/Chapter08/WorkingWithRanges/bin/Debug/net8.0/WorkingWithRanges
+/home/runner/workspace/cs13net9/Chapter08/WorkingWithRanges/bin/Debug/net8.0/WorkingWithRanges.deps.json
+/home/runner/workspace/cs13net9/Chapter08/WorkingWithRanges/bin/Debug/net8.0/WorkingWithRanges.runtimeconfig.json
+/home/runner/workspace/cs13net9/Chapter08/WorkingWithRanges/bin/Debug/net8.0/WorkingWithRanges.dll
+/home/runner/workspace/cs13net9/Chapter08/WorkingWithRanges/bin/Debug/net8.0/WorkingWithRanges.pdb
+/home/runner/workspace/cs13net9/Chapter08/WorkingWithRanges/obj/Debug/net8.0/WorkingWithRanges.dll
+/home/runner/workspace/cs13net9/Chapter08/WorkingWithRanges/obj/Debug/net8.0/refint/WorkingWithRanges.dll
+/home/runner/workspace/cs13net9/Chapter08/WorkingWithRanges/obj/Debug/net8.0/WorkingWithRanges.pdb
+/home/runner/workspace/cs13net9/Chapter08/WorkingWithRanges/obj/Debug/net8.0/WorkingWithRanges.genruntimeconfig.cache
+/home/runner/workspace/cs13net9/Chapter08/WorkingWithRanges/obj/Debug/net8.0/ref/WorkingWithRanges.dll
