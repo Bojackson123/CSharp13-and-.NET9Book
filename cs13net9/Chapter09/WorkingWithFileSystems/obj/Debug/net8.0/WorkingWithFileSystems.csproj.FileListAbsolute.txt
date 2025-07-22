@@ -4,3 +4,15 @@
 /home/runner/workspace/cs13net9/Chapter09/WorkingWithFileSystems/obj/Debug/net8.0/WorkingWithFileSystems.AssemblyInfo.cs
 /home/runner/workspace/cs13net9/Chapter09/WorkingWithFileSystems/obj/Debug/net8.0/WorkingWithFileSystems.csproj.CoreCompileInputs.cache
 /home/runner/workspace/cs13net9/Chapter09/WorkingWithFileSystems/obj/Debug/net8.0/WorkingWithFileSystems.sourcelink.json
+/home/runner/workspace/cs13net9/Chapter09/WorkingWithFileSystems/bin/Debug/net8.0/WorkingWithFileSystems
+/home/runner/workspace/cs13net9/Chapter09/WorkingWithFileSystems/bin/Debug/net8.0/WorkingWithFileSystems.deps.json
+/home/runner/workspace/cs13net9/Chapter09/WorkingWithFileSystems/bin/Debug/net8.0/WorkingWithFileSystems.runtimeconfig.json
+/home/runner/workspace/cs13net9/Chapter09/WorkingWithFileSystems/bin/Debug/net8.0/WorkingWithFileSystems.dll
+/home/runner/workspace/cs13net9/Chapter09/WorkingWithFileSystems/bin/Debug/net8.0/WorkingWithFileSystems.pdb
+/home/runner/workspace/cs13net9/Chapter09/WorkingWithFileSystems/bin/Debug/net8.0/Spectre.Console.dll
+/home/runner/workspace/cs13net9/Chapter09/WorkingWithFileSystems/obj/Debug/net8.0/WorkingW.4DE6E30B.Up2Date
+/home/runner/workspace/cs13net9/Chapter09/WorkingWithFileSystems/obj/Debug/net8.0/WorkingWithFileSystems.dll
+/home/runner/workspace/cs13net9/Chapter09/WorkingWithFileSystems/obj/Debug/net8.0/refint/WorkingWithFileSystems.dll
+/home/runner/workspace/cs13net9/Chapter09/WorkingWithFileSystems/obj/Debug/net8.0/WorkingWithFileSystems.pdb
+/home/runner/workspace/cs13net9/Chapter09/WorkingWithFileSystems/obj/Debug/net8.0/WorkingWithFileSystems.genruntimeconfig.cache
+/home/runner/workspace/cs13net9/Chapter09/WorkingWithFileSystems/obj/Debug/net8.0/ref/WorkingWithFileSystems.dll

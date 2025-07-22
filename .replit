@@ -3,6 +3,7 @@ run = "dotnet run"
 
 [nix]
 channel = "stable-24_05"
+packages = ["sqlite"]
 
 [deployment]
 run = ["sh", "-c", "dotnet run"]
