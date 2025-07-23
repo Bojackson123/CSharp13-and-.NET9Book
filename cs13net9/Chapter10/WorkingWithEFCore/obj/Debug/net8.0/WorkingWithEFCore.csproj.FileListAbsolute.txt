@@ -21,10 +21,7 @@
 /home/runner/workspace/cs13net9/Chapter10/WorkingWithEFCore/bin/Debug/net8.0/SQLitePCLRaw.batteries_v2.dll
 /home/runner/workspace/cs13net9/Chapter10/WorkingWithEFCore/bin/Debug/net8.0/SQLitePCLRaw.core.dll
 /home/runner/workspace/cs13net9/Chapter10/WorkingWithEFCore/bin/Debug/net8.0/SQLitePCLRaw.provider.e_sqlite3.dll
-/home/runner/workspace/cs13net9/Chapter10/WorkingWithEFCore/bin/Debug/net8.0/System.Diagnostics.DiagnosticSource.dll
 /home/runner/workspace/cs13net9/Chapter10/WorkingWithEFCore/bin/Debug/net8.0/System.IO.Pipelines.dll
-/home/runner/workspace/cs13net9/Chapter10/WorkingWithEFCore/bin/Debug/net8.0/System.Text.Encodings.Web.dll
-/home/runner/workspace/cs13net9/Chapter10/WorkingWithEFCore/bin/Debug/net8.0/System.Text.Json.dll
 /home/runner/workspace/cs13net9/Chapter10/WorkingWithEFCore/bin/Debug/net8.0/runtimes/browser-wasm/nativeassets/net8.0/e_sqlite3.a
 /home/runner/workspace/cs13net9/Chapter10/WorkingWithEFCore/bin/Debug/net8.0/runtimes/linux-arm/native/libe_sqlite3.so
 /home/runner/workspace/cs13net9/Chapter10/WorkingWithEFCore/bin/Debug/net8.0/runtimes/linux-arm64/native/libe_sqlite3.so
@@ -32,7 +29,6 @@
 /home/runner/workspace/cs13net9/Chapter10/WorkingWithEFCore/bin/Debug/net8.0/runtimes/linux-mips64/native/libe_sqlite3.so
 /home/runner/workspace/cs13net9/Chapter10/WorkingWithEFCore/bin/Debug/net8.0/runtimes/linux-musl-arm/native/libe_sqlite3.so
 /home/runner/workspace/cs13net9/Chapter10/WorkingWithEFCore/bin/Debug/net8.0/runtimes/linux-musl-arm64/native/libe_sqlite3.so
-/home/runner/workspace/cs13net9/Chapter10/WorkingWithEFCore/bin/Debug/net8.0/runtimes/linux-musl-s390x/native/libe_sqlite3.so
 /home/runner/workspace/cs13net9/Chapter10/WorkingWithEFCore/bin/Debug/net8.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
 /home/runner/workspace/cs13net9/Chapter10/WorkingWithEFCore/bin/Debug/net8.0/runtimes/linux-ppc64le/native/libe_sqlite3.so
 /home/runner/workspace/cs13net9/Chapter10/WorkingWithEFCore/bin/Debug/net8.0/runtimes/linux-s390x/native/libe_sqlite3.so
@@ -46,7 +42,6 @@
 /home/runner/workspace/cs13net9/Chapter10/WorkingWithEFCore/bin/Debug/net8.0/runtimes/win-arm64/native/e_sqlite3.dll
 /home/runner/workspace/cs13net9/Chapter10/WorkingWithEFCore/bin/Debug/net8.0/runtimes/win-x64/native/e_sqlite3.dll
 /home/runner/workspace/cs13net9/Chapter10/WorkingWithEFCore/bin/Debug/net8.0/runtimes/win-x86/native/e_sqlite3.dll
-/home/runner/workspace/cs13net9/Chapter10/WorkingWithEFCore/bin/Debug/net8.0/runtimes/browser/lib/net8.0/System.Text.Encodings.Web.dll
 /home/runner/workspace/cs13net9/Chapter10/WorkingWithEFCore/obj/Debug/net8.0/WorkingWithEFCore.csproj.AssemblyReference.cache
 /home/runner/workspace/cs13net9/Chapter10/WorkingWithEFCore/obj/Debug/net8.0/WorkingWithEFCore.GeneratedMSBuildEditorConfig.editorconfig
 /home/runner/workspace/cs13net9/Chapter10/WorkingWithEFCore/obj/Debug/net8.0/WorkingWithEFCore.AssemblyInfoInputs.cache
@@ -63,13 +58,10 @@
 /home/runner/workspace/cs13net9/Chapter10/WorkingWithEFCore/bin/Debug/net8.0/Northwind.EntityModels.pdb
 /home/runner/workspace/cs13net9/Chapter10/WorkingWithEFCore/bin/Debug/net8.0/Humanizer.dll
 /home/runner/workspace/cs13net9/Chapter10/WorkingWithEFCore/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
-/home/runner/workspace/cs13net9/Chapter10/WorkingWithEFCore/bin/Debug/net8.0/Microsoft.Build.Locator.dll
 /home/runner/workspace/cs13net9/Chapter10/WorkingWithEFCore/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
 /home/runner/workspace/cs13net9/Chapter10/WorkingWithEFCore/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
 /home/runner/workspace/cs13net9/Chapter10/WorkingWithEFCore/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
 /home/runner/workspace/cs13net9/Chapter10/WorkingWithEFCore/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
-/home/runner/workspace/cs13net9/Chapter10/WorkingWithEFCore/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
-/home/runner/workspace/cs13net9/Chapter10/WorkingWithEFCore/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
 /home/runner/workspace/cs13net9/Chapter10/WorkingWithEFCore/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
 /home/runner/workspace/cs13net9/Chapter10/WorkingWithEFCore/bin/Debug/net8.0/Mono.TextTemplating.dll
 /home/runner/workspace/cs13net9/Chapter10/WorkingWithEFCore/bin/Debug/net8.0/System.CodeDom.dll
@@ -130,16 +122,3 @@
 /home/runner/workspace/cs13net9/Chapter10/WorkingWithEFCore/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
 /home/runner/workspace/cs13net9/Chapter10/WorkingWithEFCore/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
 /home/runner/workspace/cs13net9/Chapter10/WorkingWithEFCore/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
-/home/runner/workspace/cs13net9/Chapter10/WorkingWithEFCore/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
-/home/runner/workspace/cs13net9/Chapter10/WorkingWithEFCore/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
-/home/runner/workspace/cs13net9/Chapter10/WorkingWithEFCore/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
-/home/runner/workspace/cs13net9/Chapter10/WorkingWithEFCore/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
-/home/runner/workspace/cs13net9/Chapter10/WorkingWithEFCore/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
-/home/runner/workspace/cs13net9/Chapter10/WorkingWithEFCore/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
-/home/runner/workspace/cs13net9/Chapter10/WorkingWithEFCore/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
-/home/runner/workspace/cs13net9/Chapter10/WorkingWithEFCore/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
-/home/runner/workspace/cs13net9/Chapter10/WorkingWithEFCore/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
-/home/runner/workspace/cs13net9/Chapter10/WorkingWithEFCore/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
-/home/runner/workspace/cs13net9/Chapter10/WorkingWithEFCore/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
-/home/runner/workspace/cs13net9/Chapter10/WorkingWithEFCore/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
-/home/runner/workspace/cs13net9/Chapter10/WorkingWithEFCore/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
