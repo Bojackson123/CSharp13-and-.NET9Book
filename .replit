@@ -1,9 +1,9 @@
-modules = ["dotnet-7.0", "dotnet-8.0", "dotnet-9.0"]
+modules = ["dotnet-7.0", "dotnet-8.0.18", "dotnet-9.0"]
 run = "dotnet run"
 
 [nix]
 channel = "stable-24_05"
-packages = ["sqlite"]
+packages = ["sqlite", "haskellPackages.snap-templates", "wget"]
 
 [deployment]
 run = ["sh", "-c", "dotnet run"]
