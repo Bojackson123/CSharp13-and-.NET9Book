@@ -4,7 +4,7 @@ using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 using Microsoft.EntityFrameworkCore;
 
-namespace WorkingWithEFCore.AutoGen;
+namespace Northwind.EntityModels;
 
 [Index("CategoryId", Name = "CategoriesProducts")]
 [Index("CategoryId", Name = "CategoryId")]
@@ -16,6 +16,7 @@ public partial class Product
     [Key]
     public int ProductId { get; set; }
 
+    [Required]
     [Column(TypeName = "nvarchar (40)")]
     [StringLength(40)]
     public string ProductName { get; set; } = null!;
@@ -31,7 +32,7 @@ public partial class Product
     public string? QuantityPerUnit { get; set; }
 
     [Column(TypeName = "money")]
-    public double? UnitPrice { get; set; }
+    public decimal? UnitPrice { get; set; }
 
     [Column(TypeName = "smallint")]
     public short? UnitsInStock { get; set; }
@@ -48,4 +49,11 @@ public partial class Product
     [ForeignKey("CategoryId")]
     [InverseProperty("Products")]
     public virtual Category? Category { get; set; }
+
+    [InverseProperty("Product")]
+    public virtual ICollection<OrderDetail> OrderDetails { get; set; } = new List<OrderDetail>();
+
+    [ForeignKey("SupplierId")]
+    [InverseProperty("Products")]
+    public virtual Supplier? Supplier { get; set; }
 }

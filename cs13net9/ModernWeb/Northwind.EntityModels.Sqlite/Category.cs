@@ -4,7 +4,7 @@ using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 using Microsoft.EntityFrameworkCore;
 
-namespace WorkingWithEFCore.AutoGen;
+namespace Northwind.EntityModels;
 
 [Index("CategoryName", Name = "CategoryName")]
 public partial class Category
@@ -12,6 +12,7 @@ public partial class Category
     [Key]
     public int CategoryId { get; set; }
 
+    [Required]
     [Column(TypeName = "nvarchar (15)")]
     [StringLength(15)]
     public string CategoryName { get; set; } = null!;
